@@ -7,3 +7,4 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 Berikut daftar volunter yang diterima:
 
 * Hasyim, [GitHub](https://github.com/hasy1m).
+* Asy'ari, [GitHub](https://github.com/HasyimAsya-RI).
